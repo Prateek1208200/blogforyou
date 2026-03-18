@@ -1,7 +1,6 @@
 {
-  "name": "blog-app",
+  "name": "perpetual-analysis",
   "version": "1.0.0",
-  "description": "Railway Blog Project",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
